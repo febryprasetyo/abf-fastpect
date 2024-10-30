@@ -73,7 +73,7 @@ function Side() {
   const [dataMonitoring, setDataMonitoring] = useState(initParam);
   const [date, setDate] = useState(new Date());
 
-  const topic = '113500000623';
+  const topic = '113500000604';
 
   useEffect(() => {
     var timer = setInterval(() => setDate(new Date()), 1000);

@@ -1,9 +1,9 @@
-import Side from '../components/Side';
+// import Side from '../components/Side';
 
 const Monitoring = () => {
   return (
     <div>
-      <Side />
+      <h2>Monitoring</h2>
     </div>
   );
 };
